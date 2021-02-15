@@ -1,0 +1,19 @@
+{
+  "name": "with-connect-hoc",
+  "version": "1.0.0",
+  "description": "React-Redux connect HOC for React.",
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux",
+    "hoc",
+    "connect"
+  ],
+  "author": "Pavel Markov",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
+  }
+}
